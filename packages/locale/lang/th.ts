@@ -152,6 +152,9 @@ export default {
       clearFilter: 'ทั้งหมด',
       sumText: 'รวม',
     },
+    tag: {
+      close: 'Close', // to be translated
+    },
     tour: {
       next: 'ถัดไป',
       previous: 'ย้อนกลับ',

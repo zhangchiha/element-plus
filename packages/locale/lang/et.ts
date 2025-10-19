@@ -152,6 +152,9 @@ export default {
       clearFilter: 'Kõik',
       sumText: 'Summa',
     },
+    tag: {
+      close: 'Close', // to be translated
+    },
     tour: {
       next: 'Next', // to be translated
       previous: 'Previous', // to be translated

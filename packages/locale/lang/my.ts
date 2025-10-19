@@ -154,6 +154,9 @@ export default {
       clearFilter: 'အားလုံး',
       sumText: 'ပေါင်းလဒ်',
     },
+    tag: {
+      close: 'Close', // to be translated
+    },
     tour: {
       next: 'နောက်သို့',
       previous: 'ရှေ့သို့',

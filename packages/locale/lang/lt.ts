@@ -152,6 +152,9 @@ export default {
       clearFilter: 'Išvalyti',
       sumText: 'Suma',
     },
+    tag: {
+      close: 'Close', // to be translated
+    },
     tour: {
       next: 'Kitas',
       previous: 'Ankstesnis',
