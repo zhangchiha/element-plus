@@ -153,7 +153,7 @@ export default {
       sumText: 'Sum',
     },
     tag: {
-      close: 'Close',
+      close: 'Close this tag',
     },
     tour: {
       next: 'Next',
