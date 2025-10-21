@@ -152,6 +152,9 @@ export default {
       clearFilter: 'Xóa hết',
       sumText: 'Tổng',
     },
+    tag: {
+      close: 'Close this tag', // to be translated
+    },
     tour: {
       next: 'Tiếp',
       previous: 'Trước',

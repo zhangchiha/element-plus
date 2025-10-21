@@ -152,6 +152,9 @@ export default {
       clearFilter: 'Wszystko',
       sumText: 'Razem',
     },
+    tag: {
+      close: 'Close this tag', // to be translated
+    },
     tour: {
       next: 'Dalej',
       previous: 'Wróć',

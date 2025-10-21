@@ -154,6 +154,9 @@ export default {
       clearFilter: 'همه',
       sumText: 'مجموع',
     },
+    tag: {
+      close: 'Close this tag', // to be translated
+    },
     tour: {
       next: 'بعدی',
       previous: 'قبلی',

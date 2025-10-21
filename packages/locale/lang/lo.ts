@@ -150,6 +150,9 @@ export default {
       clearFilter: 'ທັງໝົດ',
       sumText: 'ຜົນລວມ',
     },
+    tag: {
+      close: 'Close this tag', // to be translated
+    },
     tour: {
       next: 'ຖັດໄປ',
       previous: 'ຍ້ອນກັບ',

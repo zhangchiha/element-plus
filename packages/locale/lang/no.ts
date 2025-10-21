@@ -150,6 +150,9 @@ export default {
       clearFilter: 'Alle',
       sumText: 'Sum',
     },
+    tag: {
+      close: 'Close this tag', // to be translated
+    },
     tour: {
       next: 'Neste',
       previous: 'Forrige',
