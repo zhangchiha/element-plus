@@ -154,9 +154,6 @@ export default {
       clearFilter: 'Vše',
       sumText: 'Celkem',
     },
-    tag: {
-      close: 'Close', // to be translated
-    },
     tour: {
       next: 'Next', // to be translated
       previous: 'Previous', // to be translated

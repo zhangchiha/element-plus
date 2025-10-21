@@ -149,9 +149,6 @@ export default {
       clearFilter: '全部',
       sumText: '合计',
     },
-    tag: {
-      close: 'Close', // to be translated
-    },
     tour: {
       next: '下一步',
       previous: '上一步',
